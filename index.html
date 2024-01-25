@@ -1,9 +1,12 @@
 ---
 layout: page
-description: "「小小郑真的很可爱」"
+description: "「凡是过往，皆为序章」"
 ---
 
 {% for post in paginator.posts %}
+{% if post.categories contains 'hidden' %}
+    {% continue %}
+{% endif %}
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
         <h2 class="post-title">

@@ -1,9 +1,9 @@
-[Hux Blog](https://huangxuan.me)
+[Hux Blog](https://misslovery.github.io)
 ================================
 
 > I never expect this becomes popular.
 
-![](http://huangxuan.me/img/blog-desktop.jpg)
+![](http://misslovery.github.io/img/blog-desktop.jpg)
 
 
 [User Manual 👉](_doc/Manual.md)

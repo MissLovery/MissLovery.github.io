@@ -1,36 +1,43 @@
+<!--
+ * @Date: 2022-06-22 21:44:37
+ * @LastEditors: zhang jian
+ * @LastEditTime: 2022-11-13 22:53:10
+ * @FilePath: /misslovery.github.io/_includes/about/zh.md
+-->
 
-Hi，我是章坚， 目前是阿里巴巴高级算法工程师，研究方向是：基于神经渲染的3D重建技术。作为<a href="https://tech.taobao.org/objectdrawer">Object Drawer</a>项目的主要成员，主要负责重建算法的开发与优化。
+Hi，我是郑子吟，我是一个热爱生活的互联网产品。在这里，我的秘密基地，主要和大家分享我热爱的一切，包括但不限于工作和生活。目前，我在一个创业团队担任产品组的负责人。
 
-工作之前，我在美丽的六朝古都南京，完成了本科以及研究生的学业，我遇见了“止于至善”的<a href="https://www.seu.edu.cn/">东南大学</a>以及“诚朴雄伟”的<a href="https://www.nju.edu.cn/">南京大学</a>。东大电子学院不仅有着严格的学业课程要求，同时还给我们创造了良好的工程技术条件。在南京大学ViSG实验室，我完成了“高精度语义地图的重建”项目，主要包含：基于激光雷达的位姿估计、场景重建以及场景理解。非常感谢<a href="https://ese.nju.edu.cn/zy/list.htm">周博</a>、<a href="https://ese.nju.edu.cn/yy/list.htm">于博</a>以及<a href="https://ese.nju.edu.cn/dsd/list.htm">都教授</a>的悉心指导。此外，我曾经在网易游戏实习，负责体素化场景的编辑与渲染。
+我在历史悠久的十三朝古都西安，完成了本科的学业，我遇见了“厚德，求真，励学，笃行”的<a href="https://www.xidian.edu.cn//">西安电子科技大学</a>。毕业后满腔赤诚的我勇闯北京，在去哪儿网的专车事业部担任产品经理。前期主要参与营销类的产品，后期主要负责用户产品。
 
-个人的研究兴趣包括：深度学习、计算机视觉、计算机图形学以及机器人技术。此外，我一直保持着对技术的热情，不断学习并且跟进行最新的技术。
+2017年中旬，我来到了美丽的六朝古都南京，决定扎根于此。我加入了一个创业团队，希望能做出一番事业。我从一个仅负责单一模块的产品经理快速成长为一个带团队的产品负责人。与此同时，我也遇到了一些管理上的瓶颈。于是，工作之余，我在“止于至善”的<a href="https://www.seu.edu.cn/">东南大学</a>完成了MBA的学习。
 
-## 论文
+我们团队一直深耕“社区团购”领域。18年初，我们团队在南京创立的「小美鲜生」社区团购，覆盖了南京200多个小区。在拓展后端供应链的过程中，接触了云厨一站，合作打造了基于rfid技术的无人智能零售柜「云厨小站」。云厨一站在南京有200多家的社区门店，无人智能零售柜「云厨小站」则作为门店的补充，铺设到云厨门店覆盖不到的区域，并以智能零售柜+门店为流量入口，衍生社区团购业务，打造线上+线下的全社区零售生态。峰值时期，「云厨小站」智能零售柜铺设了50+个点位，覆盖了高校、地铁站、办公楼等区域。
 
-- Ray Priors through Reprojection: Improving Neural Radiance Fields for Novel View Extrapolation <br> **Accepted to CVPR, 2022** [<a href="https://arxiv.org/abs/2205.05922">PDF</a>]<br> 
-  <font color=gray size=3><b>Jian Zhang*</b>, Yuanqing Zhang*, <a href="https://hufu6371.github.io/huanfu/">Huan Fu#</a>, Xiaowei Zhou, Bowen Cai, Jinchi Huang, Rongfei Jia, Binqiang Zhao, and Xing Tang</font>
-<font style="line-height:0%;"></font>
+目前社区团购的市场除了几个大厂外，还有一些区域性的渠道经销商，他们有稳定的区域团长资源，精选一些商品给到团长售卖。我们团队也从做社区团购的全链条退居至仅做社区团购的供应链模块，在社区团购中担任供应链公司的角色，下游对接供应商，上游则给到区域团购的渠道经销商供货。在业务运营的过程中，提炼了IT需求，研发了一套面向社区团购供应链公司，链接渠道经销商和供应商的SaaS系统。
 
-- Reconstruction of High-Precision Semantic Map [<a href="./assets/sensors-20-06264.pdf" download>PDF</a>] <br>**Accepted to SENSOR, 2020** <br> 
-  <font color=gray size=3>Xinyuan Tu, <b>Jian Zhang</b>, Runhao Luo, Kai Wang, Qingji Zeng, Yu Zhou *, Yao Yu and Sidan Du</font>
-<font style="line-height:0%;"></font>
+如今，随着AI的快速发展，我也在不断地学习，如何转型成为一个AI产品经理，如何将AI有效地应用到日常的工作中。
 
-- SDFMap: A Real-time 3D Semantic Mapping for LiDAR Point Cloud [<a href="./assets/iros2020.pdf" download>PDF</a>] 
-  [<a href="./assets/ICRA19_0880_VI_i.mp4" download>Video</a>]<br>
-  <font color=gray size=3><b>Jian Zhang*</b>, Runhao Luo∗, Conghui Geng, Pei Li, Yu Zhou, Yao Yu, Sidan Du</font>
+工作之余，我也是一个文艺女青年，喜欢跳舞、拉小提琴、弹钢琴。懂生活，才能更好的工作。对生活保持热情，时刻保持空杯心态，不断学习。
 
 ## 项目
 
-- Real-time 3D Reconstruction based on LiDAR Point Cloud [<a href="./assets/IROS18_0838_VI_i.mp4" download>Video</a>]<br> **Nanjing University, ViSG Lab**
+- 从0-1搭建面向「社区团购供应链公司」的SaaS系统
+ 
+    ![SaaS平台产品规划蓝图](/img/流程图.jpg "SaaS平台产品规划蓝图")
 
-- Object Drawer, a high-performing end-to-end 3D object reconstruction system. [<a href="https://tech.taobao.org/objectdrawer">link</a>] <br> **Alibaba Group, Tao Technology Department**
+<font style="line-height:0%;"></font>
+
 
 ## 经历
 
 <ul>
     <li>
-        <div style="float:left; text-align:left">Alibaba Group, Tao Technology Department</div> 
-        <div style="float:right; text-align:right"><font color=gray size=3><b>2020.6-Now</b></font></div>
+        <div style="float:left; text-align:left">Intel, Artificial Intelligence and Analytics (AIA) Department </div> 
+        <div style="float:right; text-align:right"><font color=gray size=3><b>2022.07-Now</b></font></div>
+    </li>
+    <li>
+        <div style="float:left; text-align:left">Alibaba, Tao Technology Department</div> 
+        <div style="float:right; text-align:right"><font color=gray size=3><b>2020.06-2022.07</b></font></div>
     </li>
     <li>
         <div style="float:left; text-align:left"><a href="https://www.d5render.com/">D5 Render</a>, Rendering Engine Group (Internship)</div> 
