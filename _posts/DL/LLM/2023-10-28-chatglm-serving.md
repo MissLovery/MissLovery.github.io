@@ -3,6 +3,7 @@ title: "ChatGLM Serving in Intel i5 CPU Demo"
 layout: post
 author: "Zhang Jian"
 header-style: text
+categories: [hidden]  #该博客隐藏
 ---
 
 部分时间开放测试

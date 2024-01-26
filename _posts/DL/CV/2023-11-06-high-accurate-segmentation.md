@@ -8,6 +8,7 @@ tags:
   - dl
   - cv
   - segmentation
+categories: [hidden]
 ---
 
 ![](/img/peacock.jpeg)

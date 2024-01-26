@@ -7,6 +7,7 @@ mathjax: true
 tags:
   - dl
   - llm
+categories: [hidden]
 ---
 
 最近Karpathy写的这篇关于gpt的教程通俗易懂，引起了非常大的反响。这里，我参考了这篇教程进行了简单翻译、总结。
